@@ -1,0 +1,15 @@
+.text-gradient {
+    background: linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  .gradient-container {
+    background: linear-gradient(to right, #F87516 0%, #5E11FF 100%);
+  }
+
+  .card-bg{
+  background: linear-gradient(to bottom, #0e0720 0%,#241d34 100%);
+  }
